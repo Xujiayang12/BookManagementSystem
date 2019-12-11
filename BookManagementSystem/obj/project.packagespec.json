@@ -1,0 +1,50 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\xujia\\RiderProjects\\BookManagementSystem\\BookManagementSystem\\BookManagementSystem.csproj",
+    "projectName": "BookManagementSystem",
+    "projectPath": "C:\\Users\\xujia\\RiderProjects\\BookManagementSystem\\BookManagementSystem\\BookManagementSystem.csproj",
+    "outputPath": "C:\\Users\\xujia\\RiderProjects\\BookManagementSystem\\BookManagementSystem\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "Dapper": {
+          "target": "Package",
+          "version": "[2.0.30, )"
+        },
+        "MySql.Data": {
+          "target": "Package",
+          "version": "[8.0.18, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

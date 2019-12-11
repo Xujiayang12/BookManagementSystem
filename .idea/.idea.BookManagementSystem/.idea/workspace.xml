@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="690c2317-edc7-47dd-b887-75f8770dd8cd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="xjybook@47.103.87.252" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="xjybook@47.103.87.252" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="xjybook@47.103.87.252" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="xjybook: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="xjybook@47.103.87.252" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="xjybook: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="book: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="xjybook@47.103.87.252" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="xjybook: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="record: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="xjybook@47.103.87.252" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="xjybook: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/EditUserForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/ManagerForm.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/ManagerForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/ManagerForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/Form1.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/UserManageForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/RecordViewForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/Record.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/UserManageForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/SignForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/SignForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/BookModificationForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/EditUserForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/BookModificationForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/LendForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/BookInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/BookInfo.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/RecordViewForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/LendForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/ReaderForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookManagementSystem/ReaderForm.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BookManagementSystem/LoginForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/SignForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/BookModificationForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/Book.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/UserManageForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/BookModificationForm.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/User.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/SignForm.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/EditUserForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/UserManageForm.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/LendForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/Record.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/LendForm.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/RecordViewForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/ManagerForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/BookInfo.Designer.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/BookInfo.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/ReaderForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/Form1.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/EditUserForm.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/7f8e61f7-ad80-4c93-88b3-5030c7439df8/console.sql" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/ReaderForm.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/RecordViewForm.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/Form1.resx" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/Static.resx" />
+        <option value="$PROJECT_DIR$/BookManagementSystem/ManagerForm.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UjeCaNyyYjGTuAMwHwl44mSPm0" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.vagrant" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BookManagementSystem/bin/Debug/netcoreapp3.0/BookManagementSystem.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BookManagementSystem/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BookManagementSystem/BookManagementSystem.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@4a99cadf" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@4a99cadf" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@b004ba9" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="690c2317-edc7-47dd-b887-75f8770dd8cd" name="Default Changelist" comment="" />
+      <created>1575874305696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575874305696</updated>
+      <workItem from="1575874309210" duration="215000" />
+      <workItem from="1575892169503" duration="5862000" />
+      <workItem from="1575899612989" duration="9205000" />
+      <workItem from="1575908867248" duration="65000" />
+      <workItem from="1575909064976" duration="715000" />
+      <workItem from="1575909805384" duration="6159000" />
+      <workItem from="1575940831775" duration="604000" />
+      <workItem from="1575941758209" duration="5104000" />
+      <workItem from="1575948453148" duration="922000" />
+      <workItem from="1575950469763" duration="1259000" />
+      <workItem from="1575967549875" duration="3149000" />
+      <workItem from="1575970734025" duration="9631000" />
+      <workItem from="1575980653303" duration="181000" />
+      <workItem from="1575982606683" duration="2366000" />
+      <workItem from="1575988784063" duration="1680000" />
+      <workItem from="1575990660570" duration="15188000" />
+      <workItem from="1576028614123" duration="5076000" />
+      <workItem from="1576035473684" duration="3868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

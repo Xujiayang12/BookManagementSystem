@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\xujia\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\xujia\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\xujia\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\xujia\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_BookManagementSystem.-784275202.00" t="ExcludeRecursive" />
+    <e p="C:\Users\xujia\RiderProjects\BookManagementSystem" t="IncludeFlat">
+      <e p="BookManagementSystem" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Book.cs" t="Include" />
+        <e p="BookInfo.cs" t="Include" />
+        <e p="BookInfo.Designer.cs" t="Include" />
+        <e p="BookInfo.resx" t="Include" />
+        <e p="BookManagementSystem.csproj" t="IncludeRecursive" />
+        <e p="BookModificationForm.cs" t="Include" />
+        <e p="BookModificationForm.Designer.cs" t="Include" />
+        <e p="BookModificationForm.resx" t="Include" />
+        <e p="EditUserForm.cs" t="Include" />
+        <e p="EditUserForm.Designer.cs" t="Include" />
+        <e p="EditUserForm.resx" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="LendForm.cs" t="Include" />
+        <e p="LendForm.Designer.cs" t="Include" />
+        <e p="LendForm.resx" t="Include" />
+        <e p="ManagerForm.cs" t="Include" />
+        <e p="ManagerForm.Designer.cs" t="Include" />
+        <e p="ManagerForm.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="BookManagementSystem.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ReaderForm.cs" t="Include" />
+        <e p="ReaderForm.Designer.cs" t="Include" />
+        <e p="ReaderForm.resx" t="Include" />
+        <e p="Record.cs" t="Include" />
+        <e p="RecordViewForm.cs" t="Include" />
+        <e p="RecordViewForm.Designer.cs" t="Include" />
+        <e p="RecordViewForm.resx" t="Include" />
+        <e p="SignForm.cs" t="Include" />
+        <e p="SignForm.Designer.cs" t="Include" />
+        <e p="SignForm.resx" t="Include" />
+        <e p="User.cs" t="Include" />
+        <e p="UserManageForm.cs" t="Include" />
+        <e p="UserManageForm.Designer.cs" t="Include" />
+        <e p="UserManageForm.resx" t="Include" />
+      </e>
+      <e p="BookManagementSystem.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
